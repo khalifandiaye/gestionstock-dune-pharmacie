@@ -1,0 +1,1 @@
+Nous avons choisi pour notre projet de concevoir une application de gestion du stock  pour une pharmacie. Notre choix a été motivé par plusieurs points et notamment le fait d’avoir un client pour notre application, et  nous engage à concevoir un produit fiable, robuste et répondant complètement aux besoins du client.
